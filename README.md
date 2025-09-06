@@ -153,6 +153,6 @@ If you use this code or the AdMiT method in your research, please cite the origi
   title={AdMiT: Adaptive Multi-Source Tuning in Dynamic Environments},
   author={Chang, Xiangyu and Niloy, Fahim Faisal and Ahmed, Sk Miraj and Krishnamurthy, Srikanth V and Guler, Basak and Swami, Ananthram and Oymak, Samet and Roy-Chowdhury, Amit},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2024}
+  year={2025}
 }
 ```
